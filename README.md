@@ -1,4 +1,4 @@
-# Prepare test case covering "all" scenarios in one example. This one example should cover all scenarios.		
+Prepare test case covering "all" scenarios in one example. This one example should cover all scenarios.		
 More complicated example covering all possible scnearios will be given higher points.	
 Mutliple test cases covering different scenarios are also acceptable but priority will be to complex test case covering multiple scenarios.
 
